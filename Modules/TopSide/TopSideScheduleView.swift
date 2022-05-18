@@ -1,17 +1,10 @@
-//
-//  TopSideScheduleView.swift
-//  FitnessMap
-//
-//  Created by Вячеслав Зайченко on 18.05.2022.
-//
-
 import SwiftUI
 
 struct TopSideScheduleView: View {
     
     let title: String
     let data: [ScheduleData]
-    
+     
     var body: some View {
         VStack(alignment: .leading) {
             Text(title)

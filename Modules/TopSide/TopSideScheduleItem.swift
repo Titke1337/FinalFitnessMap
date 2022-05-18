@@ -1,10 +1,3 @@
-//
-//  TopSideSchedule.swift
-//  FitnessMap
-//
-//  Created by Вячеслав Зайченко on 18.05.2022.
-//
-
 import SwiftUI
 
 struct TopSideScheduleItem: View {
